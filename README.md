@@ -21,9 +21,7 @@ Automatiza el proceso de creación de la imagen de Docker y su subida a Docker H
 
 ## Práctica 4
 
-Crea un servidor y despliega la imagen de Docker en AWS utilizando Terraform.
-
-Si no se cuenta con cuenta en AWS, se debe crear una aplicación en Heroku y desplegarla allí usando github actions.
+Se debe crear una aplicación en Heroku y desplegarla allí usando github actions.
 
 ### Resultado:
 
